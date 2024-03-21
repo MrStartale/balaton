@@ -24,7 +24,8 @@ body{
 
 h2{
     font-size: 125%;
-    color: darkblue;    
+    color: darkblue; 
+     text-indent: 25px;  
 }
 
 .tab-pane{
@@ -99,6 +100,7 @@ blockquote{
     padding-right: 21px;
     line-height: 95%;
     font-size: 95%;
+    text-align: right;
 }
 
 #halLista li:hover{
@@ -114,4 +116,8 @@ blockquote{
     letter-spacing: 120%;
     font-style: italic;
     text-align: center;
+}
+blockquote{
+    margin-inline: 10px;
+    text-size-adjust: 90%;
 }
